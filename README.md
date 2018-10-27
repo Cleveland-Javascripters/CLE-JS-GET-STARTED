@@ -16,7 +16,11 @@ How to get up and running with Node.js/npm
     - Repo can be found here: https://github.com/willybeans/react_tut_day2
     - Use branches to follow along with the slides 
     
-  3. Visit Free Code Camp and complete tutorials on React Basics: https://learn.freecodecamp.org/front-end-libraries/react
+  3. React: Using Components: https://docs.google.com/presentation/d/1AxaqieKG8oYBJkEM3JLa8_bvAGSA-KkUGFEHH8vq6A8/edit?usp=sharing
+    - Repo can be found here: https://github.com/willybeans/react_tut_day3
+    - Use branches to follow along with the slides
+    
+  4. Visit Free Code Camp and complete tutorials on React Basics: https://learn.freecodecamp.org/front-end-libraries/react
   
 ### If you are unfamiliar with anything listed above: 
   - Free code camp tutorials on all things web dev: www.freecodecamp.com
