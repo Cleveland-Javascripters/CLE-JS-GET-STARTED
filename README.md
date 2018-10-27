@@ -13,12 +13,12 @@ How to get up and running with Node.js/npm
 ## Step 3: Check out our short turtorials and get caught up on react
   1. Intro to React: https://drive.google.com/open?id=1JdAnmZtCFPrsxZ5imX9SRHC_dSRT65WxqJWj4ib4AS0
   2. React: State/Props: https://drive.google.com/open?id=1RMxjuFOHLSkoiBCQ01pxHY4wP4-5sMJmdtULkJ7G-Z4
-    - Repo can be found here: https://github.com/willybeans/react_tut_day2
-    - Use branches to follow along with the slides 
+     - Repo can be found here: https://github.com/willybeans/react_tut_day2
+     - Use branches to follow along with the slides 
     
   3. React: Using Components: https://docs.google.com/presentation/d/1AxaqieKG8oYBJkEM3JLa8_bvAGSA-KkUGFEHH8vq6A8/edit?usp=sharing
-    - Repo can be found here: https://github.com/willybeans/react_tut_day3
-    - Use branches to follow along with the slides
+     - Repo can be found here: https://github.com/willybeans/react_tut_day3
+     - Use branches to follow along with the slides
     
   4. Visit Free Code Camp and complete tutorials on React Basics: https://learn.freecodecamp.org/front-end-libraries/react
   
